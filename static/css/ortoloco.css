@@ -1,4 +1,6 @@
 /* general overrides of bootstrap */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
 @font-face {
     font-weight: normal;
     font-style: normal;
@@ -16,11 +18,11 @@ html, body {
     font-size: 14px;
     background-color: #fffff7;
     height: 100%;
-    font-family: "Ubuntu", "Overlock", sans-serif;
+    font-family: helvetica, "helvetica neue", 'Open Sans', arial;
 }
 
 h1, h2, h3, h4, h5, h6, .main-menu {
-    font-family: "Overlock", "Philosopher", sans-serif;
+    font-family: helvetica, "helvetica neue", 'Open Sans', arial;
     font-weight: 900;
 }
 
