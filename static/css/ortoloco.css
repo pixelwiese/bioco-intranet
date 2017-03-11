@@ -103,17 +103,7 @@ select, input[type="text"], input[type="password"], input[type="datetime"], inpu
 }
 
 /* menu */
-.nav-pills > .active > a {
-    color: #4c9434;
-    background-color: transparent;
-}
-
 .nav-pills.nav-stacked > li > a, .nav-pills ul.nav-pills.nav-stacked > li:last-child > a {
-    background-color: transparent;
-}
-
-.nav-pills > .active > a:hover, .nav-pills > .active > a:focus {
-    color: #315f21;
     background-color: transparent;
 }
 
